@@ -204,7 +204,7 @@ $(".bars").innerHTML = Array.from(
 
 /* ---------- 6. NOMOR WHATSAPP ----------
    Pakai kode negara, tanpa +, tanpa 0 di depan. Contoh: 6281234567890 */
-const WA = "6281901097128";
+const WA = "";
 $("#wa").href =
   "https://wa.me/" +
   WA +
